@@ -1,40 +1,68 @@
+<div align="center">
+
 # Smart Timetable Reminder
 
-Student timetable reminder app for managing class schedules and smart notifications.
+Timetable and reminder app for classes or scheduled routines.
+
+![React](https://img.shields.io/badge/React-20232A?logo=react) ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo) ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react)
+
+[Repository](https://github.com/theadhithyankr/smart-timetable-reminder)
+
+</div>
+
+## Overview
+
+Smart Timetable Reminder is a scheduling project in the TheAdhithyanKR/smart-timetable-reminder repository. Student timetable reminder app for managing class schedules and smart notifications.
+
+The README was written from the repository contents, including its manifest files, source tree, and available project metadata. The primary manifest is $(System.Collections.Hashtable.Path), and the commands below are taken from its scripts.
 
 ## Key Features
-- Student timetable reminder app for managing class schedules and smart notifications
-- Existing media assets are referenced only where they are already present in the repository.
-- Package scripts provide reproducible development, build, and preview commands.
+
+- Timetable-oriented planning workflow
+- Reminder-focused mobile experience
+- Project structure for schedule data and user-facing screens
+- Useful academic productivity app concept
 
 ## Tech Stack
-- JavaScript/TypeScript
+
 - React
 - Expo
+- React Native
 
 ## Project Structure
-- public / assets - static images, icons, manifests, and visual assets.
 
-## Setup and Run
-```bash
-git clone https://github.com/theadhithyankr/smart-timetable-reminder.git
-cd smart-timetable-reminder
+`	ext
+.
+|-- App.js
+|-- app.json
+|-- assets/adaptive-icon.png
+|-- assets/favicon.png
+|-- assets/icon.png
+|-- assets/splash-icon.png
+|-- docs/DEVELOPMENT.md
+|-- eas.json
+|-- generate_splash.html
+|-- index.js
+|-- LICENSE
+|-- package.json
+|-- package-lock.json
+|-- README.md
+`
+
+## Setup
+
+`ash
 npm install
-npm run start
-npm run android
-npm run ios
-```
-
-## Screenshots and Media
-- Existing asset: assets/adaptive-icon.png
-- Existing asset: assets/favicon.png
-- Existing asset: assets/icon.png
-- Existing asset: assets/splash-icon.png
+npm start
+`
 
 ## What This Project Demonstrates
-- Building user-facing web applications with component-based UI and modern frontend tooling.
-- Structuring a mobile app around reusable screens, assets, and platform run scripts.
-- Presenting project scope, setup, and technical choices clearly for reviewers and recruiters.
 
-## Repository
-- GitHub: https://github.com/theadhithyankr/smart-timetable-reminder
+- Ability to turn a focused product idea into a working codebase
+- Practical use of the repository's chosen framework and tooling
+- Attention to deployable structure, repeatable setup, and portfolio-ready presentation
+- Project-specific implementation around scheduling
+
+## Links
+
+- Repository: [https://github.com/theadhithyankr/smart-timetable-reminder](https://github.com/theadhithyankr/smart-timetable-reminder)
