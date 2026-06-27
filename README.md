@@ -14,7 +14,7 @@ Timetable and reminder app for classes or scheduled routines.
 
 Smart Timetable Reminder is a scheduling project in the TheAdhithyanKR/smart-timetable-reminder repository. Student timetable reminder app for managing class schedules and smart notifications.
 
-The README was written from the repository contents, including its manifest files, source tree, and available project metadata. The primary manifest is $(@{Path=package.json; Json=}.Path), and the commands below are taken from its scripts.
+The README was written from the repository contents, including its manifest files, source tree, and available project metadata. The primary manifest is `package.json`, and the commands below are taken from its scripts.
 
 ## Key Features
 
